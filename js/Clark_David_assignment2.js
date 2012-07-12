@@ -57,10 +57,16 @@ console.log(totalRiflesLeft);
 /*String Function
 
 var getString = function () {
+//String Function
 
+var getString = function (x, y) {
+	return (x + " so " + y);
+	
 };
 
 getString();
+var rifles = getString("We don't have enough rifles", "we need more rifles");
+console.log(rifles);
 
 //Array Function
 
