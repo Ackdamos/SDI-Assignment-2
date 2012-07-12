@@ -68,7 +68,13 @@ console.log(rifles);
 
 var getArray = function () {
 	for () {}
+	var squadCount = platoonSquads.length;
+	platoonSquads.push ("Squad 5");
+	for (var i = 0; i < platoonSquads.length; i++) {
+	return platoonSquads	
+	}
 };
 
 getArray();
-*/
+*/var showSquads = getArray(1, platoonSquads);
+console.log(showSquads)
