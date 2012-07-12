@@ -48,11 +48,18 @@ var	getNumber = function (i) {
 	i++;
 	var shit = i;
 	return shit;
+var	getRifles = function (rifles) {
+	var soldiers = 30; 
+	while (soldiers > 0) {
+	soldiers--;
+	return soldiers;
   }
 };
 
 var shit = getNumber(0);
 console.log(shit);
+var totalRiflesLeft = getRifles(30);
+console.log(totalRiflesLeft);
 
 /*String Function
 
