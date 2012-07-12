@@ -43,11 +43,6 @@ console.log(jesusChrist);
 
 //Number Function
 
-var	getNumber = function (i) {
-	while (i < 5) {
-	i++;
-	var shit = i;
-	return shit;
 var	getRifles = function (rifles) {
 	var soldiers = 30; 
 	while (soldiers > 0) {
@@ -56,8 +51,6 @@ var	getRifles = function (rifles) {
   }
 };
 
-var shit = getNumber(0);
-console.log(shit);
 var totalRiflesLeft = getRifles(30);
 console.log(totalRiflesLeft);
 
