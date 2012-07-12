@@ -65,6 +65,7 @@ var rifles = getString("We don't have enough rifles", "we need more rifles");
 console.log(rifles);
 
 /*Array Function
+//Array Function
 
 var getArray = function () {
 	for () {}
@@ -77,4 +78,5 @@ var getArray = function () {
 
 getArray();
 */var showSquads = getArray(1, platoonSquads);
+var showSquads = getArray(1, platoonSquads);
 console.log(showSquads)
