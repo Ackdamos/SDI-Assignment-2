@@ -76,3 +76,5 @@ var getArray = function () {
 
 var showSquads = getArray(1, platoonSquads);
 console.log(showSquads)
+
+console.log(jesusChrist, totalRiflesLeft, rifles, showSquads)
