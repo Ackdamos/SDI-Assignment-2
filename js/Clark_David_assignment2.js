@@ -40,6 +40,8 @@ var getBoolean = function (platoon, officer) {
 
 var jesusChrist = getBoolean(true, true);
 console.log(jesusChrist);
+var companyCheck = getBoolean(true, true);
+console.log(companyCheck);
 
 //Number Function
 
@@ -77,4 +79,4 @@ var getArray = function () {
 var showSquads = getArray(1, platoonSquads);
 console.log(showSquads)
 
-console.log(jesusChrist, totalRiflesLeft, rifles, showSquads)
+console.log(jesusChrist, totalRiflesLeft, rifles, showSquads)console.log(companyCheck, totalRiflesLeft, rifles, showSquads)
